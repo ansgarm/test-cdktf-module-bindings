@@ -1,0 +1,16 @@
+{
+  "language": "typescript",
+  "app": "npx ts-node main.ts",
+  "projectId": "e6e97310-9442-48c3-a006-ef8faa489d95",
+  "sendCrashReports": "true",
+  "terraformProviders": [],
+  "terraformModules": [
+    {
+      "name": "asg-dns-handler",
+      "source": "git::https://github.com/a0s/terraform-aws-asg-dns-handler.git"
+    }
+  ],
+  "context": {
+    
+  }
+}
